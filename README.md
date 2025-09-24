@@ -29,10 +29,6 @@ Unity<br/>
 
 
 
-# 💫 About Me:
-Hi, I’m Alan 👋<br><br>🎓 I’m a Computer Science Engineering student passionate about building intelligent systems and exploring how technology can improve lives.<br><br>💡 Interests:<br><br>Artificial Intelligence & Machine Learning<br><br>Natural Language Processing & Chatbots<br><br>Multilingual applications and emotion-aware systems<br><br>Full-stack development (Flask, Python, JS)<br><br>🚀 Current Projects:<br><br>MindPhase-M: A multilingual empathetic chatbot using LoRA fine-tuning and stacked adapters.<br><br>AI-driven research on lightweight neural networks and fine-tuning techniques.<br><br>🌱 I’m currently learning:<br><br>Advanced AI/ML concepts<br><br>Neural networks from scratch<br><br>Unity & AR applications<br><br>📌 My goal: To combine creativity and technology in building solutions that make a positive impact.
-
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/alanoospear) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/alan-john-shibu-a-70b862254?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) 
 
