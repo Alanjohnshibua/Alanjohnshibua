@@ -10,8 +10,6 @@ Natural Language Processing & Chatbots<br/>
 
 Multilingual applications and emotion-aware systems<br/>
 
-Full-stack development (Flask, Python, JS)<br/>
-
 🚀 Current Projects:<br/>
 
 MindPhase-M: A multilingual empathetic chatbot using LoRA fine-tuning and stacked adapters.<br/>
