@@ -1,4 +1,4 @@
-##Hi, I’m Alan 👋
+##Hi, I’m Alan 👋##
 
 🎓 I’m a Computer Science Engineering student passionate about building intelligent systems and exploring how technology can improve lives.<br/>
 
